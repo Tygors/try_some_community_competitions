@@ -1,0 +1,1 @@
+collecting basic answers from different community competitions about ML, NLP and maybe CV
